@@ -27,4 +27,8 @@ public class SimpleOperations {
     {
         return Math.pow(a,b);
     }
+    public double scuareRoot(int a)
+    {
+        return Math.sqrt(a);
+    }
 }
