@@ -23,4 +23,8 @@ public class SimpleOperations {
     {
         return ((b == 0)? 0 : (a / b));
     }
+    public double power(int a, int b)
+    {
+        return Math.pow(a,b);
+    }
 }
